@@ -18,4 +18,5 @@ namespace primeiropoo
         return "o personagem atacou!";
     }
     
-    
+    }
+}
